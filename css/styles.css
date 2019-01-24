@@ -6,23 +6,13 @@ body{
 }
 
 a {
-  margin: 10px 10px;
-  font-size: 1.2em;
-  text-decoration: none;
-  color: red;
+  font-size: 1.0em;
+  width: 100%
 }
 
 /*****************CLASS SELECTORS*****************/
 .first-info {
 
-}
-
-.hinata {
-  position: absolute;
-  left: 20px;
-  top: 0px;
-  bottom: 10px;
-  font-size: 25px;
 }
 
 .phoneNumber {
@@ -48,16 +38,14 @@ a {
 .top-info {
   background-color: white;
   padding-top: 50px;
-  padding-bottom: 10px;
-
-
+  padding-bottom: 20px;
 }
 
 .navbar-inverse {
-  margin-top: 10px;
-  width: 60%;
+  margin-top: 20px;
+  width: 50%;
   position: relative;
-  left: 180px;
+  left: 200px;
 }
 
 .container-fluid{
@@ -66,5 +54,31 @@ a {
 
 
 
-
 /*****************ID SELECTORS*****************/
+#section2 {
+  padding-top:50px;height:500px;color: #fff; background-color: #673ab7;
+}
+
+#section3 {
+  padding-top:50px;height:500px;color: #fff; background-color: #ff9800;
+}
+
+#section41 {
+  padding-top:50px;height:500px;color: #fff; background-color: #00bcd4;
+}
+
+#section42 {
+  padding-top:50px;height:500px;color: #fff; background-color: #009688;
+}
+
+#hinata {
+  position: absolute;
+  left: 20px;
+  top: 0px;
+  bottom: 10px;
+  font-size: 25px;
+}
+
+#myCarousel{
+  padding: 0px;
+}
