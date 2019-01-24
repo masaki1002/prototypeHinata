@@ -1,0 +1,70 @@
+/*****************TAG SELECTORS *****************/
+body{
+  position: relative;
+  margin: 0;
+  text-align: center;
+}
+
+a {
+  margin: 10px 10px;
+  font-size: 1.2em;
+  text-decoration: none;
+  color: red;
+}
+
+/*****************CLASS SELECTORS*****************/
+.first-info {
+
+}
+
+.hinata {
+  position: absolute;
+  left: 20px;
+  top: 0px;
+  bottom: 10px;
+  font-size: 25px;
+}
+
+.phoneNumber {
+  position: absolute;
+  right: 40px;
+}
+
+.navbar {
+  margin-top: 50px;
+}
+
+.navbar-toggle{
+    background-color: gray;
+    color: #F3DBAA;
+    border:none;
+}
+
+.navbar-toggle.but-menu:visited {
+    color: #FFF;
+    background-color: gray;
+}
+
+.top-info {
+  background-color: white;
+  padding-top: 50px;
+  padding-bottom: 10px;
+
+
+}
+
+.navbar-inverse {
+  margin-top: 10px;
+  width: 60%;
+  position: relative;
+  left: 180px;
+}
+
+.container-fluid{
+  width: 100%;
+}
+
+
+
+
+/*****************ID SELECTORS*****************/
